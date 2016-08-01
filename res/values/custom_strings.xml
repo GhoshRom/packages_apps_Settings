@@ -22,5 +22,8 @@
     <string name="force_show_enter_key_title">Always show ENTER key</string>
     <string name="force_show_enter_key_summary">Forces ENTER key to be displayed, rather than Emoji key</string>
 
+   <!-- Phone info shortcut -->
+    <string name="device_info_title">Phone info</string>
+
 </resources>
 
