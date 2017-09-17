@@ -17,5 +17,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="show_dev_already_enabled">No need. Developer options is already enabled.</string>
+
+    <!-- Keyboard: Force Show ENTER key -->
+    <string name="force_show_enter_key_title">Always show ENTER key</string>
+    <string name="force_show_enter_key_summary">Forces ENTER key to be displayed, rather than Emoji key</string>
+
 </resources>
 

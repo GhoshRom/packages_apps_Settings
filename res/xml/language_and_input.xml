@@ -43,6 +43,13 @@
         <!-- Spell checker preference title, summary and fragment will be set programmatically. -->
         <!-- Note: Mark this as persistent="false" to remove unnecessarily saved shared preference.
              See: InputMethodAndSubtypeUtil.removeUnnecessaryNonPersistentPreference. -->
+
+        <com.aquarios.coralreef.preference.SystemSettingSwitchPreference
+            android:key="force_show_enter_key"
+            android:title="@string/force_show_enter_key_title"
+            android:summary="@string/force_show_enter_key_summary"
+            android:defaultValue="true" />
+
         <Preference
             android:key="spellcheckers_settings"
             android:title="@string/spellcheckers_settings_title"
